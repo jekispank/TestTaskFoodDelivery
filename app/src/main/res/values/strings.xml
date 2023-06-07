@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TestTaskFoodDelivery</string>
+    <!-- MainFragment -->
+    <string name="saint_petersburg">Санкт-Петербург</string>
+    <string name="_12_2023">12 Августа, 2023</string>
+    <string name="main">Главная</string>
+    <string name="search">Поиск</string>
+    <string name="bag">Корзина</string>
+    <string name="account">Аккаунт</string>
+
+
 </resources>
